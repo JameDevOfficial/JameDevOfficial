@@ -1,4 +1,5 @@
-## Hi there 👋
+![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=JameDevOfficial&count=5&theme=dark)
+
 
 <!--
 **JameDevOfficial/JameDevOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
