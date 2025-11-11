@@ -1,6 +1,6 @@
-![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=JameDevOfficial&count=5&theme=dark)
+![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=JameDevOfficial&count=5&theme=ayu-dark)
 
-
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=4128&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
 <!--
 **JameDevOfficial/JameDevOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
